@@ -1,7 +1,7 @@
 # Code Review Findings
 **Project:** StudentRegistrationSystem  
 **Reviewed File:** StudentRegistration.java  
-**Review Type:** Initial Code Review
+**Review Type:** Code Review
 
 ## Overview
 
