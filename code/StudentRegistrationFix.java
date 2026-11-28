@@ -1,4 +1,4 @@
-
+package code;
 import java.util.ArrayList;
 
 class Student {
@@ -36,7 +36,7 @@ public class StudentRegistration {
 
         if (age <= 0) {
             System.out.println("Invalid age!");
-            return;
+            return; // 
         }
 
         if (grade < 0 || grade > 100) {
